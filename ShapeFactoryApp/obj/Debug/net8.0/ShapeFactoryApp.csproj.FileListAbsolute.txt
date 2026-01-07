@@ -1,0 +1,28 @@
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.exe
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.deps.json
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.runtimeconfig.json
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.dll
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.pdb
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.AssemblyInfoInputs.cache
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.AssemblyInfo.cs
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.dll
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\refint\ShapeFactoryApp.dll
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.pdb
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.genruntimeconfig.cache
+C:\Users\atleh\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ref\ShapeFactoryApp.dll
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.exe
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.deps.json
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.runtimeconfig.json
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.dll
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\bin\Debug\net8.0\ShapeFactoryApp.pdb
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.AssemblyInfoInputs.cache
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.AssemblyInfo.cs
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.dll
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\refint\ShapeFactoryApp.dll
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.pdb
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ShapeFactoryApp.genruntimeconfig.cache
+C:\Users\atleh\OneDrive - ADvTECH Ltd\source\source\repos\ShapeFactoryApp\ShapeFactoryApp\obj\Debug\net8.0\ref\ShapeFactoryApp.dll

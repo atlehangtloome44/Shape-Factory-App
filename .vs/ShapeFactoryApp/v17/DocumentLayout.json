@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\factories\\rectanglefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\factories\\rectanglefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\factories\\squarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\factories\\squarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\factories\\trinaglefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\factories\\trinaglefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\factories\\circlefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\factories\\circlefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\shapes\\sqaure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\shapes\\sqaure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\interfaces\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\interfaces\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|c:\\users\\atleh\\onedrive - advtech ltd\\source\\source\\repos\\shapefactoryapp\\shapefactoryapp\\interfaces\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FA5D24-8042-45A0-A29B-DC70DE2FF89D}|ShapeFactoryApp\\ShapeFactoryApp.csproj|solutionrelative:shapefactoryapp\\interfaces\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SquareFactory.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Factories\\SquareFactory.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Factories\\SquareFactory.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Factories\\SquareFactory.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Factories\\SquareFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:59:49.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrinagleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Factories\\TrinagleFactory.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Factories\\TrinagleFactory.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Factories\\TrinagleFactory.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Factories\\TrinagleFactory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:59:32.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CircleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Factories\\CircleFactory.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Factories\\CircleFactory.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Factories\\CircleFactory.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Factories\\CircleFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:59:17.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sqaure.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Shapes\\Sqaure.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Shapes\\Sqaure.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Shapes\\Sqaure.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Shapes\\Sqaure.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:58:35.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Shapes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Shapes\\Triangle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:58:25.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Shapes\\Rectangle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:58:16.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Shapes\\Circle.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Shapes\\Circle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:58:03.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\App.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\App.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\App.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\App.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:53:41.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Program.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Program.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:50:24.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RectangleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Factories\\RectangleFactory.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Factories\\RectangleFactory.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Factories\\RectangleFactory.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Factories\\RectangleFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:00:04.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShapeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Interfaces\\ShapeFactory.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Interfaces\\ShapeFactory.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Interfaces\\ShapeFactory.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Interfaces\\ShapeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:56:19.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Interfaces\\Shape.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryApp\\Interfaces\\Shape.cs",
+              "ToolTip": "C:\\Users\\atleh\\OneDrive - ADvTECH Ltd\\source\\source\\repos\\ShapeFactoryApp\\ShapeFactoryApp\\Interfaces\\Shape.cs",
+              "RelativeToolTip": "ShapeFactoryApp\\Interfaces\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:56:03.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
